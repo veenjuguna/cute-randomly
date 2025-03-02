@@ -33,3 +33,4 @@ while True:
 
 # Keep the window open
 turtle.done()
+add more info to the page
